@@ -5,7 +5,6 @@
 
 作者：Brain Tracy
 
-译者：王卓
 
 原书封面：<img src="1.jpg">
 
