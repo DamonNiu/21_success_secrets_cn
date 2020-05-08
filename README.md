@@ -9,5 +9,3 @@
 原书封面：![](.gitbook/assets/1.jpg)
 
 在线阅读：[Gitbook](https://kingflyme1.gitbook.io/21/)
-
-issues:chapter1,2,4,5,6,7,10排版问题
