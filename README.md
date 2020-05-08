@@ -8,4 +8,3 @@
 
 原书封面：![](.gitbook/assets/1.jpg)
 
-在线阅读：[Gitbook](https://kingflyme1.gitbook.io/21/)
